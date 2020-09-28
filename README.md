@@ -51,7 +51,7 @@
 - Não coloque coisa estranha porque os recrutadores podem perguntar alguma coisa relacionada a isso, então tem que ser verdade
 
 # Accomplishments
-## Linguas
+## Línguas
 - Super importante por, mesmo que seja nível:
   - Básico (consigo ler um documento mas não fazer uma negociação)
   - Intermediário (consigo ler, escrever e falar bem)
