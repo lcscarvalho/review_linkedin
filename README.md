@@ -89,7 +89,7 @@ Se você sabe bem inglês, já deixe todo o seu perfil nesta língua, ainda mais
 ### Notas
 Criado e mantido por https://www.linkedin.com/in/lcscarvalho
 
-Comentários, coloque aqui que vamos interagindo
+Comentários, abra uma issue e vamos interagindo
 
 Gostou, pode me comprar um café aqui: [picpay.me/lcscarvalho](https://picpay.me/lcscarvalho)
 
