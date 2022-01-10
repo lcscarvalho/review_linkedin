@@ -21,7 +21,7 @@
 - O que gosta de fazer;
 - O que já fez;
 - O que não gosta de fazer;
-- Breve descrião do que fez;
+- Breve descrição do que fez;
 - Pouco relevante na busca pelos recrutadores, é mais informacional para quem abriu o perfil
 
 # Experience
